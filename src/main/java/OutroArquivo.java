@@ -11,6 +11,6 @@ public class OutroArquivo {
     public static void main(String[] args){
         System.out.println("Olá pessoal");
         int valor = 0;
-        System.out.println(valor);
+        valor =1;
     }
 }   
